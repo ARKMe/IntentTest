@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">IntentsTest</string>
+    <string name="intent_extra_name">bello.andrea.intenttest.name</string>
+</resources>
